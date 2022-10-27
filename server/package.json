@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "pg": "^8.8.0",
+    "pgtools": "^0.3.2",
     "restify": "^8.6.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
