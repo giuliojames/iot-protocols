@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hf1YfnbVH95OvwETeSFmIKF58eArdOXfAwzrj8ZXim7JBdBtRom4vZRrfkdb5SohuEVVlV26rtU0NElIpI8vcg==",
+=======
+  "dgSpecHash": "dDVe+3JoHm1KB4ML/UBlvITLRrICQF8k/I8By0l8wyKtVWfZIv4Wdd0XZQpkfK23mdJOAMTRUyWrVSJCGrHacA==",
+>>>>>>> 6a14b4727ef6b3df86c9b74ad20a7a061bb6c93d
   "success": true,
   "projectFilePath": "C:\\Users\\GForlan\\OneDrive - NOVATION TECH SPA\\Desktop\\CODING\\C#\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [

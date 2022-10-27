@@ -32,7 +32,7 @@ const config = {
   port: 5432
 };
 
-pgtools.(config, "myFirstDb", function(err, res) {
+pgtools.createdb(config, "myFirstDb", function(err, res) {
   if (err) {
     console.error(err);
     process.exit(-1);
